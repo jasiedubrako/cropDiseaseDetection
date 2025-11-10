@@ -2,7 +2,7 @@
 This project involves the development of a mobile application for detecting crop diseases using machine learning. The app utilizes a TensorFlow Lite model for real-time inference, providing farmers with actionable insights to manage crop health effectively.
 
 ## Contributors
-- Jeffrey Asiedu-Brako : [@ziegler121](https://www.github.com/ziegler121)
+- Jeffrey Asiedu-Brako : [@jasiedubrako](https://github.com/jasiedubrako)
 - Emmanuel Kyeremeh : [@emmanuelkyeremeh](https://github.com/emmanuelkyeremeh)
 
 
@@ -114,5 +114,6 @@ The deployment of the crop disease identification solution culminated in a user-
  <div align="center">
    <img src="https://drive.google.com/uc?export=view&id=1yOq99VvbRlVW6Zt43fn4kxDlqEzJGptm" alt="Interface" height = "550" width="400">
  </div>
+
 
 
